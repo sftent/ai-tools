@@ -6,7 +6,7 @@ Welcome to this **Adobe PNG to PDF** review—a comprehensive guide to one of th
 
 Need to turn your PNGs into PDFs fast? [**Try Adobe PNG to PDF for free**](https://acrobat.adobe.com/link/acrobat/jpg-to-pdf?x_api_client_id=adobe_com&x_api_client_location=jpg_to_pdf)! Sign up for a 7-day free trial, upload your images, and create professional PDFs in seconds. Click to start converting today!
 
----
+![Image](https://github.com/user-attachments/assets/02b36aa3-64fe-40bb-a68c-1c96f3da858f)
 
 ## Adobe PNG to PDF: A Detailed Review of Features and Benefits
 
